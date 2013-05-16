@@ -1,0 +1,7 @@
+CheckableGroup 1.0 CheckableGroup.qml
+Checkable 1.0 Checkable.qml
+Time 1.0 Time.qml
+Date 1.0 Date.qml
+UiScaler 1.0 UiScaler.qml
+ComponentListModel 1.0 ComponentListModel.qml
+ComponentCache 1.0 ComponentCache.qml

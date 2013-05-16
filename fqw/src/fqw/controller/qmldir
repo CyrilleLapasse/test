@@ -1,0 +1,8 @@
+KeyFocusController 1.0 KeyFocusController.qml
+TransitionManager 1.0 TransitionManager.qml
+ScrollableColumn 1.0 ScrollableColumn.qml
+Carousel 1.0 Carousel.qml
+DataExplorer 1.0 DataExplorer.qml
+DirectoryList 1.0 DirectoryList.qml
+ElementView 1.0 ElementView.qml
+JsonListLoader 1.0 JsonListLoader.qml

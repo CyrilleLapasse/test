@@ -1,0 +1,9 @@
+Button 1.0 Button.qml
+Switch 1.0 Switch.qml
+Slider 1.0 Slider.qml
+TextInput 1.0 TextInput.qml
+TextArea 1.0 TextArea.qml
+Combo 1.0 Combo.qml
+CheckBox 1.0 CheckBox.qml
+TabList 1.0 TabList.qml
+

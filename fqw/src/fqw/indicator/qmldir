@@ -1,0 +1,13 @@
+ProgressBar 1.0 ProgressBar.qml
+Loading 1.0 Loading.qml
+PlayerStatus 1.0 PlayerStatus.qml
+TimeLine 1.0 TimeLine.qml
+InfoPanel 1.0 InfoPanel.qml
+Scrollbar 1.0 Scrollbar.qml
+CurrentTime 1.0 CurrentTime.qml
+CurrentDate 1.0 CurrentDate.qml
+ServerClock 1.0 ServerClock.qml
+FocusShower 1.0 FocusShower.qml
+Background 1.0 Background.qml
+FramedImage 1.0 FramedImage.qml
+Label 1.0 Label.qml
